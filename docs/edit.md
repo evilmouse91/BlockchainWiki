@@ -44,3 +44,5 @@ When saving your work, be sure to add a title and description for your edit. Thi
 Your edit will appear publically with the proposed removed & added text.
 
 ![Public](https://i.imgur.com/GmZpoYu.png)
+
+## Submit pull request
